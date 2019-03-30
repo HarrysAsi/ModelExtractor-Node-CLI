@@ -25,7 +25,7 @@ Models will be extracted in the desktop of your computer inside a folder called 
 We use git for versioning.
 
 ## Examples
-![main](/images/main.png) ![terminate](/images/terminate.png)
+![main](github/images/node-cli-preview.png)
 
 ## Authors
 
